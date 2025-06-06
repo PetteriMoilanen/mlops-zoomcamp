@@ -1,2 +1,2 @@
 # mlops-zoomcamp
-Repo for eponymous course
+Repo for the eponymous course (2025 version).
